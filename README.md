@@ -1,2 +1,4 @@
 # p3_read_mapping
-Map fastq reads to specified set of genes, for MLST etc.
+Use kma to ap fastq reads to specified set of genes, for MLST etc.
+
+
