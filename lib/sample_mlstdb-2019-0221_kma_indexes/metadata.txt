@@ -1,0 +1,141 @@
+#database	last_retrieved	profiles	locus|count:minlen:maxlen
+Leptospira_spp_2	2019-02-21	271	adk_2|110:430:430	glmU_2|78:444:444	icdA_2|98:557:557	lipL32_2|67:450:450	lipL41_2|92:493:493	mreA_2|80:435:435	pntA_2|86:525:525
+Campylobacter_lari	2019-02-21	161	Cla_adk|106:378:378	Cla_atpA|106:489:489	Cla_glnA|88:477:477	Cla_glyA|85:507:507	Cla_pgi|127:456:456	Cla_pgm|122:498:498	Cla_tkt|95:459:459
+Burkholderia_cepacia_complex	2019-02-21	1547	atpD|514:443:443	gltB|672:397:400	gyrB|1003:454:454	recA|578:393:393	lepA|631:397:397	phaC|469:385:385	trpB|620:301:301
+Taylorella_spp	2019-02-21	57	gltA|15:623:623	gyrB|16:518:518	fh|29:574:574	shmt|14:435:435	tyrB|19:462:462	adk|16:538:538	txn|22:371:371
+Yersinia_spp	2019-02-21	170	aarF|80:500:500	dfp|74:455:455	galR|89:500:500	glnS|80:442:448	hemA|79:490:490	rfaE|77:429:429	speA|66:452:452
+Staphylococcus_haemolyticus	2019-02-21	61	arcC|15:402:402	SH_1200|17:445:445	hemH|13:420:420	leuB|21:493:493	SH1431|14:449:449	cfxE|11:428:428	Ribose_ABC|14:454:454
+Acinetobacter_baumannii_1	2019-02-21	1890	Oxf_gltA|121:484:484	Oxf_gyrB|198:457:457	Oxf_gdhB|205:344:344	Oxf_recA|133:371:371	Oxf_cpn60|128:421:421	Oxf_gpi|334:305:305	Oxf_rpoD|151:510:519
+Vibrio_vulnificus	2019-02-21	364	glp|111:480:480	gyrB|79:459:459	mdh|93:489:489	metG|79:429:429	purM|75:444:444	dtdS|158:417:417	lysA|137:465:465	pntA|94:396:396	pyrC|105:423:423	tnaA|104:324:324
+Moraxella_catarrhalis	2019-02-21	620	abcZ|107:429:432	adk|85:471:471	efp|62:414:414	fumC|88:465:465	glyBeta|137:522:537	mutY|115:426:426	ppa|99:393:393	trpE|40:372:372
+Campylobacter_upsaliensis	2019-02-21	204	Cup_adk|44:378:378	Cup_aspA|84:477:477	Cup_atpA|40:489:489	Cup_glnA|52:477:477	Cup_glyA|56:507:507	Cup_pgi|52:456:456	Cup_tkt|65:459:459
+Klebsiella_pneumoniae	2019-02-21	3545	gapA|183:450:460	infB|138:318:318	mdh|245:465:477	pgi|219:432:432	phoE|372:418:420	rpoB|189:485:501	tonB|474:390:432
+Mycobacterium_abscessus	2019-02-21	26	Mab_argH|6:510:510	Mab_cya|5:540:540	Mab_gnd|7:506:506	Mab_murC|8:445:445	Mab_pta|11:520:520	Mab_purH|7:497:497	Mab_rpoB|4:503:503
+Trichomonas_vaginalis	2019-02-21	60	TRYP|5:351:351	GLUT|5:285:285	FT2A|6:317:318	ALTS|17:430:430	DMRP|12:447:447	SHMT|2:338:339	M6PI|4:372:372
+Orientia_tsutsugamushi	2019-02-21	92	gpsA|42:390:390	mdh|26:348:348	nrdF|34:384:384	nuoF|41:360:360	ppdK|38:396:396	sucB|28:411:411	sucD|36:411:411
+Mycobacteria_spp	2019-02-21	839	S14Z|348:185:186	L35|378:194:196	S19|345:281:307	L19|408:340:349	S12|392:374:381	S8|429:397:408	L16|439:415:432	S7|445:470:477
+Streptococcus_oralis	2019-02-21	78	aroE|53:398:398	ddl|44:441:441	gdh|42:459:459	gki|39:432:432	hexB|41:455:455	recP|35:448:448	xpt|38:488:488
+Mycoplasma_bovis	2019-02-21	156	adh1|15:432:432	gltX|17:423:423	gpsA|14:414:414	gyrB|25:570:570	pta2|23:378:378	tdk|15:306:306	tkt|26:426:426
+Achromobacter_spp	2019-02-21	458	nusA|159:355:355	rpoB|156:413:413	eno|131:214:214	gltB|127:241:241	lepA|165:347:347	nuoL|136:230:230	nrdA|141:449:449
+Lactobacillus_salivarius	2019-02-21	25	pstB|16:731:731	rpsB|12:786:786	nrdB|13:734:734	rpoA|11:816:816	parB|17:795:795
+Ornithobacterium_rhinotracheale	2019-02-21	35	adk|25:393:393	aroE|27:486:492	fumC|26:489:489	gdhA|24:480:480	mdh|23:519:519	pgi|26:492:492	pmi|25:489:489
+Edwardsiella_spp	2019-02-21	18	adk|8:472:472	atpD|9:790:790	dnaJ|9:729:729	gapA|9:719:719	glnA|8:505:505	hsp60|12:534:534	phoR|13:600:600	pyrG|14:684:684	rpoA|5:795:795	tuf|8:801:801
+Candida_tropicalis	2019-02-21	833	ICL1|45:433:447	MDR1|162:411:425	SAPT2|57:488:525	SAPT4|93:356:391	XYR1|152:352:370	ZWF1a|53:509:520
+Streptococcus_pyogenes	2019-02-21	1096	gki|168:498:498	gtr|139:449:450	murI|127:438:438	mutS|112:351:405	recP|154:458:459	xpt|136:449:450	yqiL|156:431:434
+Propionibacterium_acnes	2019-02-21	139	aroE|23:424:424	atpD|15:453:453	gmk|16:400:400	guaA|21:493:493	lepA|12:452:452	sodA|20:450:450	tly|32:777:777	CAMP2|42:804:807
+Riemerella_anatipestifer	2019-02-21	44	dnaB|5:510:510	groEL|6:475:475	gyrA|12:650:650	mdh|7:460:460	gluD|8:630:630	gpi|14:535:535	rpoB|29:575:575
+Melissococcus_plutonius	2019-02-21	35	argE|7:503:503	galK|9:470:471	gbpB|17:311:557	purR|6:383:383
+Streptococcus_suis	2019-02-21	1148	aroA|315:366:366	cpn60|402:318:318	dpr|278:336:338	gki|352:321:321	mutS|374:339:339	recA|256:354:354	thrA|238:336:336
+Mannheimia_haemolytica	2019-02-21	51	adk|20:495:495	aroE|15:486:486	deoD|20:471:471	gapDH|15:387:387	gnd|17:438:438	mdh|19:408:408	zwf|19:501:501
+Mycoplasma_pneumoniae	2019-02-21	33	ppa|2:256:256	pgm|8:1072:1073	gyrB|3:429:429	gmk|3:394:394	glyA|7:676:676	atpA|4:796:796	arcC|5:570:570	adk|7:473:473
+Acinetobacter_baumannii_2	2019-02-21	1308	Pas_cpn60|193:405:405	Pas_fusA|185:633:633	Pas_gltA|179:483:483	Pas_pyrG|90:297:297	Pas_recA|193:372:372	Pas_rplB|100:330:330	Pas_rpoB|168:456:456
+Bordetella_spp	2019-02-21	87	adk|12:426:426	fumC|10:402:402	glyA|20:393:393	tyrB|10:421:421	icd|17:411:411	pepA|16:418:433	pgm|18:453:453
+Paenibacillus_larvae	2019-02-21	24	glpF|6:270:271	sigF|4:341:341	glpT|4:502:502	Natrans|6:490:490	rpoB|7:339:339	ftsA|4:464:464	clpC|6:541:541
+Campylobacter_hyointestinalis	2019-02-21	134	Chy_aspA|22:477:477	Chy_atpA|21:489:489	Chy_glnA|25:477:477	Chy_gltA|27:402:402	Chy_glyA|28:507:507	Chy_pgm|28:501:501	Chy_tkt|34:459:459
+Streptococcus_pneumoniae	2019-02-21	14390	aroE|481:405:405	gdh|632:460:460	gki|657:483:483	recP|447:450:450	spi|621:474:474	xpt|871:369:624	ddl|930:441:441
+Streptococcus_gallolyticus	2019-02-21	109	aroE|28:458:458	glgB|21:491:491	nifS|33:738:738	p20|32:394:394	tkt|24:441:441	trpD|26:418:418	uvrA|30:517:517
+Streptococcus_canis	2019-02-21	38	gki|12:498:498	gtr|9:450:450	murI|6:438:438	mutS|8:405:405	recP|8:459:459	xpt|10:450:450	yqiZ|7:434:434
+Flavobacterium_psychrophilum	2019-02-21	194	atpA|56:834:834	dnaK|32:873:873	fumC|17:750:750	gyrB|67:1077:1077	murG|46:681:681	trpB|40:789:789	tuf|53:795:795
+Brucella_spp	2019-02-21	81	gap|30:589:589	aroA|27:565:565	glk|44:475:478	dnaK|23:470:470	gyrB|25:469:469	trpE|26:486:486	cobQ|26:422:423	int_hyp|25:428:431	omp25|37:484:496
+Streptococcus_thermophilus	2019-02-21	125	ddlA|18:450:450	glcK|22:450:450	proA|31:519:519	ptsI|28:501:501	serB|32:498:498	tkt|19:525:525
+Porphyromonas_gingivalis	2019-02-21	138	ftsQ|40:420:420	gpdxJ|37:380:380	hagB|37:380:380	mcmA|30:420:420	pepO|37:400:400	pga|27:400:400	recA|14:400:400
+Mycoplasma_hyorhinis	2019-02-21	82	dnaA|15:435:435	rpoB|12:496:496	gyrB|10:291:291	gltX|11:370:370	adk|8:277:277	gmk|10:435:435
+Candida_glabrata	2019-02-21	143	FKS|32:589:589	LEU2|27:512:512	NMT1|51:607:607	TRP1|32:419:419	UGP1|20:616:616	URA3|25:602:602
+Kingella_kingae	2019-02-21	70	abcZ|21:453:453	adk|11:351:351	aroE|20:519:519	cpn60|11:303:303	gdh|20:576:576	recA|14:354:354
+Campylobacter_concisus-curvus	2019-02-21	130	Cco_aspA|110:477:477	Cco_atpA|99:489:489	Cco_glnA|109:477:477	Cco_gltA|104:402:402	Cco_glyA|110:507:507	Cco_ilvD|113:492:492	Cco_pgm|113:501:501
+Pseudomonas_fluorescens	2019-02-21	108	glnS|96:501:501	gyrB|88:492:492	ileS|91:552:552	nuoD|96:516:516	recA|92:435:435	rpoB|85:477:477	rpoD|82:480:480
+Yersinia_pseudotuberculosis	2019-02-21	381	adk|91:389:389	argA|103:361:361	aroA|108:357:358	glnA|98:338:338	thrA|110:342:342	tmk|124:375:375	trpE|119:465:465
+Brachyspira_spp	2019-02-21	36	Bra_adh|30:449:492	Bra_alp|33:783:788	Bra_est|39:569:587	Bra_gdh|41:585:588	Bra_glp|47:793:797	Bra_pgm|45:909:913	Bra_thi|37:810:822
+Clonorchis_sinensis	2019-02-21	254	Actin|76:760:760	Cox1|13:301:301	Cox3|16:345:345	Ef_1a|30:782:782	Its1|31:451:456	Nad4|101:731:731	Nad5|119:651:651	Tubulin|19:777:777
+Salmonella_enterica	2019-02-21	5010	aroC|806:499:502	dnaN|791:501:510	hemD|752:431:438	hisD|1106:500:501	purE|834:315:404	sucA|819:501:501	thrA|930:500:501
+Staphylococcus_aureus	2019-02-21	5193	arcC|613:435:522	aroE|769:453:456	glpF|694:450:466	gmk|396:417:420	pta|636:468:474	tpi|576:402:402	yqiL|683:516:516
+Helicobacter_suis	2019-02-21	138	atpA|39:732:732	efp|28:379:379	mutY|74:650:650	ppa|31:480:480	trpC|31:450:450	ureAB|27:673:676	yphC|42:717:717
+Escherichia_coli_1	2019-02-21	8068	adk|699:536:536	fumC|1109:354:478	gyrB|680:460:469	icd|934:517:519	mdh|693:416:455	purA|632:475:478	recA|557:510:510
+Staphylococcus_pseudintermedius	2019-02-21	1341	ack|46:564:564	cpn60|96:431:431	fdh|26:259:259	pta|70:492:492	purA|77:405:405	sar|38:376:376	tuf|24:417:417
+Bacillus_cereus	2019-02-21	2396	glp|351:372:372	gmk|221:504:504	ilv|402:393:393	pta|363:414:414	pur|341:348:348	pyc|282:363:363	tpi|298:435:435
+Vibrio_cholerae	2019-02-21	830	adk|128:416:416	gyrB|136:431:431	mdh|143:421:421	metE|300:588:591	pntA|172:431:431	purM|110:476:476	pyrC|236:449:449
+Gallibacterium_anatis	2019-02-21	81	adk|26:439:439	atpD|27:495:495	fumC|46:512:512	gyrB|48:561:561	infB|37:484:484	mdh|29:536:536	recN|37:564:564	thdF|30:595:595
+Carnobacterium_maltaromaticum	2019-02-21	56	dapE|23:399:399	ddlA|15:309:309	glpQ|20:522:522	ilvE|22:426:426	leuS|34:408:408	pyc|17:516:516	pyrE|16:405:405
+Piscirickettsia_salmonis	2019-02-21	24	dnaK|6:572:572	efp|11:441:441	fumC|5:655:655	glyA|7:604:604	murG|6:684:684	rpoD|3:450:450	trpB|8:608:608
+Candidatus_Liberibacter_solanacearum	2019-02-21	10	adk|5:399:399	atpA|6:617:617	fbpA|5:587:587	ftsZ|8:597:597	glyA|5:547:547	groEL|5:590:590	gyrB|7:633:633
+Pseudomonas_putida	2019-02-21	68	argS|44:366:366	gyrB|53:551:554	ileS|82:527:535	nuoC|52:493:495	ppsA|71:499:500	recA|72:549:550	rpoB|34:296:301	rpoD|75:485:491
+Wolbachia	2019-02-21	518	gatB|290:369:369	coxA|285:401:402	hcpA|314:435:447	ftsZ|249:434:435	fbpA|456:423:429
+Campylobacter_fetus	2019-02-21	69	Cfe_aspA|17:477:477	Cfe_glnA|18:477:477	Cfe_gltA|11:402:402	Cfe_glyA|14:507:507	Cfe_pgm|12:501:501	Cfe_tkt|13:459:459	Cfe_uncA|14:489:489
+Campylobacter_insulaenigrae	2019-02-21	43	Cin_aspA|10:477:477	Cin_atpA|17:489:489	Cin_glnA|12:477:477	Cin_glyA|13:507:507	Cin_pgi|15:456:456	Cin_pgm|15:498:498	Cin_tkt|13:459:459
+Streptococcus_dysgalactiae_equisimilis	2019-02-21	462	gki|54:498:498	gtr|56:450:450	murI|46:438:438	mutS|55:405:405	recP|60:459:459	xpt|82:450:450	atoB|49:434:440
+Campylobacter_sputorum	2019-02-21	16	Csp_aspA|6:477:477	Csp_atpA|6:489:489	Csp_glnA|3:477:477	Csp_gltA|6:402:402	Csp_glyA|9:507:507	Csp_pgm|6:501:501	Csp_tkt|7:468:468
+Brachyspira_hampsonii	2019-02-21	20	Bha_adh|11:529:529	Bha_est|11:552:555	Bha_gdh|11:609:609	Bha_glpK|14:794:794	Bha_pgm|14:897:897	Bha_thi|13:732:732
+Pasteurella_multocida_2	2019-02-21	75	mh_adk|30:531:531	mh_aroA|32:558:558	mh_deoD|25:576:576	mh_gdhA|26:651:651	mh_g6pd|24:513:513	mh_mdh|25:552:552	mh_pgi|31:609:609
+Staphylococcus_lugdunensis	2019-02-21	42	aroE|9:459:459	dat|9:398:398	ddl|10:421:421	gmk|6:417:417	ldh|11:409:409	recA|6:459:459	yqiL|12:443:443
+Mycoplasma_agalactiae	2019-02-21	34	dnaA|20:672:672	gltX|21:699:699	gyrB|19:408:420	metS|21:687:687	tufA|16:681:681
+Campylobacter_helveticus	2019-02-21	9	Che_aspA|7:477:477	Che_atpA|6:489:489	Che_glnA|6:477:477	Che_gltA|4:402:402	Che_glyA|9:507:507	Che_pgm|6:498:498	Che_tkt|2:459:459
+Clostridium_septicum	2019-02-21	8	ddl|2:552:552	dnaK|2:708:708	glpK|2:522:522	groEL|2:597:597	gyrA|5:693:693	recA|2:564:564	tpi|2:588:588
+Staphylococcus_epidermidis	2019-02-21	848	arcC|73:465:466	aroE|69:420:420	gtr|72:435:438	mutS|47:412:412	pyrR|62:428:428	tpiA|54:219:424	yqiL|66:416:416
+Klebsiella_oxytoca	2019-02-21	215	gapA|24:450:450	infB|41:318:318	mdh|57:477:477	pgi|52:432:432	phoE|79:420:420	rpoB|40:501:501	tonB|63:393:417
+Citrobacter_freundii	2019-02-21	417	aspC|160:513:513	clpX|173:567:567	fadD|197:483:483	mdh|157:549:549	arcA|92:435:435	dnaG|153:444:444	lysP|167:477:477
+Campylobacter_jejuni	2019-02-21	9697	aspA|489:459:477	glnA|653:477:478	gltA|562:399:402	glyA|732:507:508	pgm|965:497:499	tkt|758:457:460	uncA|564:488:490
+Dichelobacter_nodosus	2019-02-21	115	dcd|20:567:567	dtdA|21:438:438	folK|24:495:495	recR|21:606:606	rlmH|22:471:471	rplI|22:450:450	tsaE|15:414:414
+Mycoplasma_synoviae	2019-02-21	88	adk|27:498:498	atpG|37:669:669	efp|22:450:450	gmk|27:470:470	nagC|43:708:711	ppa|24:453:453	recA|29:711:711
+Neisseria_spp	2019-02-21	14272	abcZ|1018:433:434	adk|788:464:465	aroE|1048:490:493	fumC|1123:463:465	gdh|1080:501:513	pdhC|1025:480:503	pgm|1094:447:450
+Rhodococcus_spp	2019-02-21	39	gapdh|13:593:593	tpi|13:620:620	mdh|11:551:551	icl|12:588:588	rpoB|15:582:582	recA|12:595:595	adk|10:488:488
+Bacillus_subtilis	2019-02-21	175	glpF|89:384:384	ilvD|99:471:471	pta|100:414:414	purH|110:399:399	pycA|95:399:399	rpoD|76:384:384	tpiA|78:420:420
+Aspergillus_fumigatus	2019-02-21	48	ANX4|8:400:400	BGT1|8:500:500	CAT1|7:590:590	LIP|8:503:503	MAT1_2|5:135:135	SODB|4:510:510	ZRF2|6:400:400
+Macrococcus_caseolyticus	2019-02-21	58	ack|17:400:400	cpn60|15:290:290	fdh|17:450:450	pta|8:440:440	purA|17:400:400	sar|15:300:300	tuf|9:475:475
+Candida_albicans	2019-02-21	3566	AAT1a|178:366:373	ACC1|113:402:407	ADP1|172:433:443	MPIb|174:361:375	SYA1|238:382:391	VPS13|305:396:403	ZWF1b|295:482:491
+Vibrio_spp	2019-02-21	149	gyrB|129:570:573	pyrH|97:501:501	recA|118:462:462	atpA|91:489:489
+Saprolegnia_parasitica	2019-02-21	15	ALTS1|13:511:515	COX1|8:508:508	GLUT|10:438:445	NAD1|7:491:491	RPB2|13:492:505	SHMT|14:441:450	TUBB|13:534:545
+Pasteurella_multocida_1	2019-02-21	356	RIRDC_adk|53:466:466	RIRDC_est|86:535:536	RIRDC_pmi|78:602:602	RIRDC_zwf|76:500:500	RIRDC_mdh|42:521:521	RIRDC_gdh|58:530:530	RIRDC_pgi|85:560:560
+Xylella_fastidiosa	2019-02-21	86	leuA|14:708:708	petC|13:533:533	malF|17:730:730	cysG|34:600:606	holC|26:379:379	nuoL|21:527:557	gltT|16:654:654
+Escherichia_coli_2	2019-02-21	921	dinB|154:450:450	icdA|298:516:516	pabB|186:468:468	polB|199:447:450	putP|200:444:456	trpA|216:561:561	trpB|187:594:594	uidA|195:595:606
+Streptococcus_zooepidemicus	2019-02-21	379	arcC|42:437:437	nrdE|59:448:448	proS|64:435:435	spi|67:459:459	tdk|48:370:370	tpi|46:424:424	yqiL|66:396:396
+Pseudomonas_aeruginosa	2019-02-21	3219	acsA|219:390:390	aroE|295:498:498	guaA|187:373:373	mutL|228:421:447	nuoD|129:366:366	ppsA|175:358:371	trpE|268:442:443
+Enterobacter_cloacae	2019-02-21	1131	dnaA|321:442:442	fusA|205:646:646	gyrB|345:434:434	leuS|389:578:578	pyrG|309:249:265	rplB|147:607:607	rpoB|215:545:545
+Ureaplasma_spp	2019-02-21	164	ftsH|56:463:469	rpL22|26:453:456	thrS|29:598:598	valS|28:326:326
+Staphylococcus_hominis	2019-02-21	57	arcC|21:357:360	glpK|10:435:435	gtr|16:393:393	pta|12:444:444	tpiA|13:450:450	tuf|7:371:371
+Campylobacter_lanienae	2019-02-21	172	Cln_aspA|82:477:477	Cln_atpA|64:489:489	Cln_glnA|80:477:477	Cln_gltA|69:401:402	Cln_glyA|84:507:507	Cln_pgm|81:501:501	Cln_tkt|97:459:459
+Mycoplasma_hyopneumoniae	2019-02-21	122	adk|37:538:538	rpoB|56:560:560	tpiA|55:588:588
+Clostridium_botulinum	2019-02-21	112	aroE|39:412:412	mdh|39:449:449	aceK|47:457:457	oppB|40:449:449	rpoB|29:499:508	recA|28:427:427	hsp|26:499:499
+Arcobacter_spp	2019-02-21	831	aspA|385:477:477	atpA|262:489:489	glnA|228:474:474	gltA|251:429:429	glyA|777:507:507	pgm|424:503:503	tkt|334:462:462
+Listeria_monocytogenes	2019-02-21	1486	abcZ|253:534:538	bglA|220:399:399	cat|239:483:486	dapE|304:461:468	dat|199:468:471	ldh|460:434:459	lhkA|218:479:480
+Burkholderia_pseudomallei	2019-02-21	1702	ace|105:519:519	gltB|173:522:522	gmhD|139:468:468	lepA|123:486:486	lipA|183:402:402	narK|139:561:561	ndh|89:443:443
+Yersinia_ruckeri	2019-02-21	30	glnA|9:416:416	gyrB|6:454:454	dnaJ|7:632:632	thrA|4:303:303	hsp60|4:509:509	recA|4:472:472
+Stenotrophomonas_maltophilia	2019-02-21	344	atpD|127:531:531	gapA|153:558:561	guaA|263:552:552	mutM|142:465:465	nuoD|139:444:444	ppsA|181:492:495	recA|147:546:546
+Vibrio_cholerae_2	2019-02-21	566	asd|56:592:592	dnaE|53:502:502	gmd|117:503:503	gyrB2|131:573:573	lap|67:479:479	pgm|110:553:553	recA|33:686:686
+Pediococcus_pentosaceus	2019-02-21	17	gyrB|6:462:462	pyc|9:603:603	pgm|8:321:321	leuS|10:522:522	glnA|5:495:495	dalR|10:570:570	pgI|9:417:417
+Corynebacterium_diphtheriae	2019-02-21	599	atpA|54:378:378	dnaE|62:354:354	dnaK|127:345:345	fusA|75:360:360	leuA|77:384:384	odhA|67:381:381	rpoB|59:342:342
+Candida_krusei	2019-02-21	188	HIS3|23:397:400	LEU2|26:615:619	NMT1|35:532:537	TRP1|34:374:380	ADE2|26:466:470	LYS2D|27:437:441
+Brachyspira_intermedia	2019-02-21	83	Bin_adh|24:345:345	Bin_alp|30:647:647	Bin_est|53:497:512	Bin_gdh|37:412:415	Bin_glpK|51:687:687	Bin_pgm|53:744:744	Bin_thi|55:745:745
+Chlamydiales_spp	2019-02-21	268	gatA|84:425:426	oppA|77:468:492	hflX|89:435:438	gidA|91:401:474	enoA|95:380:381	hemN|73:432:432	fumC|77:465:467
+Helicobacter_pylori	2019-02-21	3482	atpA|2762:626:627	efp|2585:410:410	mutY|2795:419:420	ppa|2637:398:398	trpC|2854:456:456	ureI|2861:535:585	yphC|2896:504:531
+Cronobacter_spp	2019-02-21	680	atpD|183:390:390	fusA|182:438:438	glnS|243:361:365	gltB|285:507:507	gyrB|257:402:402	infB|240:440:443	pps|346:495:495
+Photobacterium_damselae	2019-02-21	56	glpF|21:480:480	gyrB|25:537:537	metG|22:429:429	pntA|18:396:396	pyrC|26:507:507	toxR|30:375:390
+Bartonella_bacilliformis	2019-02-21	14	ftsZ|6:497:497	flaA|4:517:517	ribC|4:349:349	rnpB|5:297:297	rpoB|4:363:363	bvrR|6:486:486	groEL|3:442:442
+Kudoa_septempunctata	2019-02-21	3	cox1|3:751:751	rnl|2:817:817
+Helicobacter_cinaedi	2019-02-21	19	23S_rRNA|6:658:658	ppa|6:358:411	aspA|6:532:532	aroE|6:572:572	atpA|7:536:536	tkt|4:562:562	cdtB|3:535:535
+Leptospira_spp_3	2019-02-21	144	adk_3|74:429:429	icdA_3|75:555:555	lipL41_3|50:492:492	rrs2_3|29:450:450	secY_3|60:501:501	lipL32_3|34:450:450
+Mycoplasma_iowae	2019-02-21	23	dppC|9:738:738	ulaA|10:933:933	valS|7:705:705	rpoC|8:792:792	leuS|7:954:954	kdpA|7:897:897
+Leptospira_spp	2019-02-21	278	glmU_1|74:444:444	pntA_1|84:525:525	sucA_1|83:447:447	tpiA_1|75:426:426	pfkB_1|110:432:432	mreA_1|76:435:435	caiB_1|68:324:403
+Haemophilus_influenzae	2019-02-21	2096	adk|220:477:477	atpG|146:447:447	frdB|200:489:489	fucK|151:344:346	mdh|311:405:405	pgi|301:468:468	recA|163:426:426
+Haemophilus_parasuis	2019-02-21	384	atpD|46:519:519	infB|66:399:399	mdh|60:444:444	rpoB|23:330:330	6pgd|82:465:465	g3pd|24:441:468	frdB|84:453:453
+Anaplasma_phagocytophilum	2019-02-21	166	pheS|100:438:438	glyA|67:387:387	fumC|63:411:411	mdh|40:387:387	sucA|77:429:429	dnaN|63:405:405	atpA|48:420:420
+Macrococcus_canis	2019-02-21	74	ack|29:450:450	cpn60|20:210:210	fdh|26:400:400	pta|17:170:170	purA|15:450:450	sar|16:300:300	tuf|12:430:430
+Treponema_pallidum	2019-02-21	50	TP0136|17:859:1013	TP0548|35:879:891	TP0705|16:732:732
+Clostridium_difficile	2019-02-21	535	adk|46:501:501	atpA|52:555:555	dxr|54:411:411	glyA|77:516:516	recA|44:564:564	sodA|62:449:450	tpi|73:504:504
+Borrelia_spp	2019-02-21	900	clpA|296:570:582	clpX|258:621:624	nifS|230:564:564	pepX|261:570:570	pyrG|269:603:606	recG|285:651:651	rplB|250:624:624	uvrA|261:570:579
+Streptomyces_spp	2019-02-21	234	16S|153:1318:1351	atpD|183:495:496	gyrB|179:375:423	recA|184:504:504	rpoB|183:540:540	trpB|200:512:571
+Tenacibaculum_spp	2019-02-21	125	atpA|59:567:567	dnaK|51:573:573	glyA|66:558:558	gyrB|65:597:597	infB|64:564:564	rlmN|50:549:549	tgt|52:486:486
+Streptococcus_bovis-equinus_complex_(SBSEC)	2019-02-21	214	
+Vibrio_parahaemolyticus	2019-02-21	2013	dnaE|376:557:557	gyrB|510:592:592	recA|373:729:729	dtdS|450:458:458	pntA|255:430:430	pyrC|425:493:493	tnaA|268:423:423
+Bacillus_licheniformis	2019-02-21	47	adk|5:465:465	ccpA|16:561:561	recF|9:561:561	rpoB|8:495:495	spo0A|14:558:558	sucC|12:549:549
+Klebsiella_aerogenes	2019-02-21	151	dnaA|36:442:442	fusA|17:646:646	gyrB|39:434:434	leuS|42:578:578	pryG|14:263:263	rplB|12:607:607	rpoB|19:545:545
+Streptococcus_uberis	2019-02-21	994	arcC|66:419:419	ddl|61:357:357	gki|59:453:454	recP|33:372:372	tdk|100:500:500	tpi|36:373:374	yqiL|70:438:446
+Streptococcus_agalactiae	2019-02-21	1348	adhP|265:334:504	pheS|109:501:501	atr|162:498:501	glnA|132:498:498	sdhA|125:519:522	glcK|139:459:459	tkt|118:480:480
+Streptococcus_thermophilus_2	2019-02-21	119	carB|10:499:499	clpX|18:630:630	dnaA|9:522:522	murC|9:451:451	murE|14:592:592	pepN|17:615:615	pepX|15:524:524	pyrG|12:624:624	recA|7:617:617	rpoB|13:661:661
+Brachyspira_hyodysenteriae	2019-02-21	249	Bhy_adh|19:345:345	Bhy_alp|35:647:647	Bhy_est|33:503:512	Bhy_gdh|33:415:415	Bhy_glpK|47:687:690	Bhy_pgm|28:744:744	Bhy_thi|45:745:745
+Aeromonas_spp	2019-02-21	564	gyrB|403:477:477	groL|387:510:510	gltA|406:495:495	metG|401:504:504	ppsA|443:537:537	recA|438:561:561
+Mycobacterium_massiliense	2019-02-21	12	Mma_argH|3:530:530	Mma_cya|4:454:454	Mma_gnd|3:476:476	Mma_murC|6:459:459	Mma_pta|3:486:486	Mma_purH|3:502:502	Mma_rpoB|10:501:501
+Bartonella_henselae	2019-02-21	33	16S|2:472:473	batR|5:487:487	ftsZ|4:483:483	gltA|2:338:338	groEL|2:369:369	nlpD|2:494:494	ribC|2:283:283	rpoB|6:471:471
+Vibrio_tapetis	2019-02-21	10	atpA|8:600:600	fstZ|6:609:609	gapA|5:588:588	hsp60|8:525:525	pyrH|8:516:516	rctB|8:600:600	recA|9:588:588	rpoA|3:600:600	rpoD|8:600:600	topA|9:600:600
+Enterococcus_faecalis	2019-02-21	910	gdh|98:530:530	gyd|37:395:399	pstS|98:583:583	gki|103:438:438	aroE|101:459:460	xpt|88:456:458	yqiL|96:436:436
+Sinorhizobium_spp	2019-02-21	136	asd|20:465:465	edd|33:503:503	gap|10:416:416	glnD|11:311:311	gnd|24:306:306	nuoE1|13:224:224	ordL2|16:433:433	recA|18:329:329	sucA|18:432:432	zwf|18:453:453
+Enterococcus_faecium	2019-02-21	1501	atpA|110:556:556	ddl|103:453:1512	gdh|88:530:530	purK|103:492:492	gyd|63:392:398	pstS|140:583:585	adk|55:437:437
